@@ -124,7 +124,8 @@ function calculate_speed() {
   // Speedometer in metres per second
   next_speed = Math.round((distance / (time / 1000)) * units[unit]);
 
-  lerp_to_next();
+  // lerp_to_next();
+  speed_display.innerHTML = next_speed;
   set_atmosphere_colour(0, 2);
 }
 
