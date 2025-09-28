@@ -71,6 +71,10 @@ function failure(err) {
   set_atmosphere_colour(0);
 }
 
+/**
+ * 
+ * @description Not used
+ */
 function lerp_to_next() {
   if (speed === next_speed) {
     clearTimeout(timeout_id);
