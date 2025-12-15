@@ -45,8 +45,8 @@ The speedometer can be updated dynamically via JavaScript by changing the speed 
 The component automatically updates the display and visuals accordingly.
 
 📸 **Preview**
-https://github.com/user-attachments/assets/c0859ded-55de-458c-844a-64c0f7f52fc6
-https://github.com/user-attachments/assets/00d57d86-9828-483f-aaf8-227a7dca5825
+[Changing Units](https://github.com/big-man-p/lightweight-web-speedometer/blob/main/previews/changing-units.mp4)
+[Decelerating](https://github.com/big-man-p/lightweight-web-speedometer/blob/main/previews/decelerating.mp4)
 
 💡 **Use Cases**
 * Vehicle or simulation dashboards
