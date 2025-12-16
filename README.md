@@ -1,5 +1,5 @@
 # Speedometer
-A lightweight, dependency-free speedometer component built with vanilla HTML, CSS, and JavaScript.
+A lightweight, dependency-free speedometer built with vanilla HTML, CSS, and JavaScript.
 Try it out here 👉 https://speedometer.fakeawake.co.uk/
 
 This project demonstrates how a clean, responsive UI component can be created without relying on frameworks or external libraries. It is designed to run anywhere a modern browser is available, including low-power or constrained environments.
