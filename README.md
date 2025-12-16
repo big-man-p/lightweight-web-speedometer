@@ -1,10 +1,11 @@
 # Speedometer
-A lightweight, dependency-free speedometer built with vanilla HTML, CSS, and JavaScript.
+**A lightweight, dependency-free speedometer built with vanilla HTML, CSS, and JavaScript.**
+
 Try it out here 👉 https://speedometer.fakeawake.co.uk/
 
 This project demonstrates how a clean, responsive UI component can be created without relying on frameworks or external libraries. It is designed to run anywhere a modern browser is available, including low-power or constrained environments.
 
-✨ **Features**
+## ✨ Features
 * Displays speed in km/h, mph, or m/s
 * Built using only the default HTML DOM, CSS, and JavaScript
 * No external dependencies or frameworks
@@ -12,7 +13,7 @@ This project demonstrates how a clean, responsive UI component can be created wi
 * Smooth visual updates with minimal overhead
 * Responsive layout that adapts to different screen sizes
 
-🧠 **Design Goals**
+## 🧠 Design Goals
 The primary goal of this project was to create a portable and efficient UI component that:
 * Can run in any modern browser
 * Avoids large frameworks where they are unnecessary
@@ -21,13 +22,13 @@ The primary goal of this project was to create a portable and efficient UI compo
 
 This makes it suitable for dashboards, embedded displays, kiosks, or educational demos.
 
-🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 * HTML – Semantic structure using the native DOM
 * CSS – Styling and layout with no pre-processors
 * JavaScript – Logic and dynamic updates using vanilla JS
 No build tools, package managers, or third-party libraries are required.
 
-🚀 **Getting Started**
+## 🚀 Getting Started
 Clone the repository and open the project directly in your browser:
 ```sh
 git clone https://github.com/big-man-p/speedometer.git
@@ -36,7 +37,7 @@ cd speedometer
 Then open `index.html` in any modern browser.
 That’s it — no installation or setup needed.
 
-⚙️ * 
+## ⚙️ Usage
 The speedometer can be updated dynamically via JavaScript by changing the speed value and selecting the desired unit:
 * km/h
 * mph
@@ -44,11 +45,11 @@ The speedometer can be updated dynamically via JavaScript by changing the speed 
 
 The component automatically updates the display and visuals accordingly.
 
-📸 **Preview**
+## 📸 Preview
 [Changing Units](https://github.com/big-man-p/lightweight-web-speedometer/blob/main/previews/changing-units.mp4)
 [Decelerating](https://github.com/big-man-p/lightweight-web-speedometer/blob/main/previews/decelerating.mp4)
 
-💡 **Use Cases**
+## 💡 Use Cases
 * Vehicle or simulation dashboards
 * Embedded or kiosk displays
 * Lightweight web applications
